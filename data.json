@@ -1,0 +1,64 @@
+{
+  "records": [
+    {
+      "id": 8721,
+      "imageUrl": "chromebook.jpg",
+      "description": "HP ChromeBook 11 G4 11.6 Inch Business Notebooks, Intel Celeron Processor N2840 2.16GHz, 4G RAM, 16G SSD, WIFI, HDMI",
+      "minBidPrice": 50,
+      "bids": [
+        {
+          "name": "James",
+          "bidPrice": 55
+        },
+        {
+          "name": "Serina",
+          "bidPrice": 53
+        }
+      ]
+    },
+    {
+      "id": 5779,
+      "imageUrl": "Lenovo.jpg",
+      "description": "Lenovo Notebook 80YS0000US IDEAPAD N23 11.6 INCH N3060 2GB 16GB Chrome Chrome OP",
+      "minBidPrice": 70,
+      "bids": [
+        {
+          "name": "Bernard",
+          "bidPrice": 75
+        },
+        {
+          "name": "Serina",
+          "bidPrice": 80
+        }
+      ]
+    },
+    {
+      "imageUrl": "test.png",
+      "description": "New item description ....",
+      "minBidPrice": 280,
+      "bids": [
+        {
+          "name": "James",
+          "bidPrice": 32
+        },
+        {
+          "name": "Mary",
+          "bidPrice": 36
+        }
+      ],
+      "id": 4732
+    },
+    {
+      "imageUrl": "test.png",
+      "description": "New item description ....",
+      "minBidPrice": 300,
+      "bidList": [
+        {
+          "name": "James",
+          "bidPrice": 20
+        }
+      ],
+      "id": 5919
+    }
+  ]
+}
